@@ -1,0 +1,10 @@
+{
+    "servers": ["https://raw.githubusercontent.com/KYGAS/hide-thralls/master/"],
+	"disableAutoUpdate": false,
+	"options": {
+		"settingsFile": "config.json",
+		"settingsMigrator": "setting_migrator.js",
+        "niceName": "hide-thralls",
+		"settingsVersion": 1
+    }
+}

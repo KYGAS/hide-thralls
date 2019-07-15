@@ -1,0 +1,10 @@
+{
+  "files": {
+    "index.js" : "1bc918e124e1024220abde7b184bb5533b2ff2643f37d354b368ca42df11fe28",
+    "module.json" : "179b5ca9c041a931963fb14daf1097356ed6b98a8c9ec291794e14ee5cf49f77",
+	"setting_migrator.js" : "cc67fa34011155cf36f70c023a58a3e53935de9fb37fca7b1f9c08ad588a7374"
+  },
+  "defs":{
+	"S_SPAWN_NPC" : 11
+  }
+}
